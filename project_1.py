@@ -5,8 +5,7 @@ project_1.py: First project for Engeto Online Python Akademie
  email: marta@ufa.cas.cz
 '''
 
-# The project is to be subbmited via GitHub:
-# making changes to check if everything works, deleting line
+
 # import of the string module
 import string
  
